@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Vamsi Gib Branch!"
 ---
 
 Use the right arrow to begin!
