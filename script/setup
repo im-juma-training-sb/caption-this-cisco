@@ -23,8 +23,3 @@ fi
 if [ -f "Gemfile" ]; then
   echo "==> Installing gem dependencies…"
   bundle install --no-cache --quiet --without production
-fi
-
-git submodule update --init
-
-echo "==> App is now ready to go!"
